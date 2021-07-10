@@ -1,0 +1,30 @@
+{
+  "name": "react-use-medium",
+  "version": "1.0.0",
+  "description": "A react hook to fetch your Medium stories in a json format 📝",
+  "main": "index.js",
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DheerajMahra/react-use-medium.git"
+  },
+  "keywords": [
+    "use-medium-hook",
+    "react",
+    "react-hooks",
+    "custom-hook",
+    "medium",
+    "medium-stories"
+  ],
+  "author": "Dheeraj Mahra <dheerajmahra873@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DheerajMahra/react-use-medium/issues"
+  },
+  "homepage": "https://github.com/DheerajMahra/react-use-medium#readme"
+}
