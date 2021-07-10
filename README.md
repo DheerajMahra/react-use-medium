@@ -2,7 +2,7 @@
 
 A React hook to fetch your Medium stories in a json format 📝
 
-![react-use-medium logo](https://raw.githubusercontent.com/DheerajMahra/image-hosting/main/medium.png?token=AJPOPU3DGMSN7NVTWVJQ55DA5H5LK)
+![react-use-medium logo](https://raw.githubusercontent.com/DheerajMahra/image-hosting/main/medium.png)
 
 ![Npm](https://img.shields.io/npm/v/react-use-medium?logo=npm&style=flat-square)
 ![GitHub](https://img.shields.io/github/license/DheerajMahra/react-use-medium?color=yellow&logo=github&style=flat-square)
