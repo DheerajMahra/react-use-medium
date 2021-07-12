@@ -8,6 +8,12 @@ A React hook to fetch your Medium stories in json format 📝
 ![GitHub](https://img.shields.io/github/license/dheerajmahra/react-use-medium?style=flat-square)
 ![Npm](https://img.shields.io/npm/dm/react-use-medium?style=flat-square)
 
+## Live Demo
+
+Checkout live demo of react-use-hook below
+
+[CodeSandbox](https://codesandbox.io/s/react-use-medium-demo-fn91d?file=/src/App.jsx)
+
 ## Install
 
 ```

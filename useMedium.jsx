@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 
 export function useMedium(username) {
   const [state, setState] = useState({ data: {}, isFetched: false });
-  debugger;
+
   const mediumRss = `https://medium.com/feed/@${username}`;
   const ENDPOINT = `https://api.rss2json.com/v1/api.json?rss_url=${mediumRss}`;
 

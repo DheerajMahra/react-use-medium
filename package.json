@@ -1,6 +1,6 @@
 {
   "name": "react-use-medium",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A react hook to fetch your Medium stories in a json format 📝",
   "main": "index.js",
   "peerDependencies": {
